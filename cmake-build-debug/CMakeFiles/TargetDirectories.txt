@@ -1,0 +1,3 @@
+C:/Users/matth/CLionProjects/PasswordDetection/cmake-build-debug/CMakeFiles/PasswordDetection.dir
+C:/Users/matth/CLionProjects/PasswordDetection/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matth/CLionProjects/PasswordDetection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
